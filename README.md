@@ -45,3 +45,11 @@ ProductPulse is an interactive Tableau dashboard that analyzes sales performance
 - Used for analysis of sales trends and product performance
 
 ---
+
+## Key Insights
+
+- Quickly identify high-performing regions and products  
+- Monitor monthly sales trends for business decisions  
+- Analyze category-level performance and profitability  
+
+---
