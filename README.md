@@ -53,3 +53,16 @@ ProductPulse is an interactive Tableau dashboard that analyzes sales performance
 - Analyze category-level performance and profitability  
 
 ---
+
+## Contribution Guide
+
+- How to Contribute: Fork the repository and submit pull requests with clear descriptions.  
+- Coding / Visualization Standards: Follow existing naming conventions for sheets, calculated fields, and filters. 
+- Documentation: Update README and screenshots when adding or modifying features.
+- Review: Ensure changes maintain dashboard performance and interactivity.
+
+- Best Practices: Keep PRs focused and incremental. Avoid large, unrelated changes in a single submission to simplify review and maintenance.
+
+
+
+
